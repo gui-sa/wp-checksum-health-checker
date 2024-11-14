@@ -1,0 +1,1 @@
+# wp-checksum-health-checker
